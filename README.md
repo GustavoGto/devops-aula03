@@ -1,6 +1,6 @@
 # Ferramentas de controle de verão:
 * Mercurial
-* Gicurial
+* GitHub
 * Subversion
 * CVS
 
